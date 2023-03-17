@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2? family= Lato:ital,wght@1,300 & display=swap');
+
+*{
+  font-family: Lato, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+}
+
+.input-group{
+  width: 60%;
+  font-family: Lato, sans-serif;
+}
+
+
+
+.navbar {
+  background-color: rgb(123, 130, 136);
+} 
+
+
+
+
+body{
+  background-color: rgb(52, 64, 75);
+  font-weight: bold;
+}
+
+
+.img-fluid{
+  height: 400px;
+}
+
+.input-group{
+  width: 60%;
+}
+
+.card{
+  max-width: 60%;
+  background-color: rgb(152, 183, 211);
+  font-weight: bold;
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+  font-weight: bold;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 50px;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 320px;
+  font-weight: bold;
+}
+
